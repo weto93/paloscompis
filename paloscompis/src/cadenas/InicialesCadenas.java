@@ -97,6 +97,7 @@ public class InicialesCadenas {
 		System.out.println(copia3);
 		System.out.println(copia4);
 		System.out.println(copia5);
+		System.out.println("XD");
 	}
 	
 }
